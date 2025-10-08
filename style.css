@@ -17,11 +17,16 @@ section {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: #ddeeff;
+    background: url("https://wallpapers.com/images/hd/meme-picture-qly6xmsm9lccjuk8.jpg");
+    background-repeat: repeat;
+    background-position: bottom;
+    background-size: contain;
 }
 section > .title {
     margin-bottom: 2rem;
     font-size: 32px;
+    color: white;
+    text-shadow: 2px 2px 5px #000;
 }
 
 section > ul {
